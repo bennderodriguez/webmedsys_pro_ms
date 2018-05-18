@@ -1,0 +1,3 @@
+[
+{ "item":" 441000188", "Entidad": "10", "Descripcion":"RENTA DE EQUIPO DE NEURO-MONI", "UOM":"si", "renglon": " 441000188" }, { "item":" 413062120", "Entidad": "10", "Descripcion":"ALF�M TAB C/60 (INACTIVO)", "UOM":"pz", "renglon": " 413062120" }, { "item":" 413062433", "Entidad": "10", "Descripcion":"ACLASTA 5MG/100ML (INACTIVO)", "UOM":"pz", "renglon": " 413062433" }, { "item":" 413062591", "Entidad": "10", "Descripcion":"MICOSTATIN SUSP 10 (INACTIVO)", "UOM":"pz", "renglon": " 413062591" }
+, { "item":" 413062944", "Entidad": "10", "Descripcion":"FIBROQUEL FAM (INACTIVO)", "UOM":"pz", "renglon": " 413062944" }]

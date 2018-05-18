@@ -1,0 +1,19 @@
+{
+    "dsitem": {
+        "ttitem": [
+            {                
+                "ttentidad": "MEDSR" ,
+                "ttitem-no": "504504379",
+                "ttcreate-date": "02/16/2018",
+                "ttactive": 1,
+                "ttdescription1": "descrip 1",
+                "ttdescription2": "descrip 2",
+                "ttsort-name": "KIT COMPLETO DRENAJE SYSTEM II821730",
+                "ttuom-code": "PZA", 
+                "ttcategoria": "C0009", 
+                "ttstocked": false,
+                "ttError": true
+            }
+        ]
+    }
+}
